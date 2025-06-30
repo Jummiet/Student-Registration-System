@@ -1,6 +1,6 @@
 # Student Registration System
 
-A simple Python application that simulates a student registering for a university course using object-oriented principles.
+This is a  simple Python application that simulates a student registering for a university course using object-oriented principles.
 
 ## Purpose
 
