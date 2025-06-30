@@ -8,7 +8,7 @@ class Student:
         self.email = email
 
     def register(self, course):
-        """Creates and submits a course registration."""
+        """Creates and submits a new course registration."""
         registration = Registration(reg_id=1001, student=self, course=course)
         print(f"{self.name} is registering for a course...")
         registration.submit()
