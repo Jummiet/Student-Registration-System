@@ -1,14 +1,18 @@
-# To-Do List Manager
+# Student Registration System
 
-A simple command-line to-do list application written in Python.
+A simple Python application that simulates a student registering for a university course using object-oriented principles.
 
 ## Purpose
-This app helps users manage tasks by allowing them to add, view, and complete to-do items.
+
+This application demonstrates the use of classes, object relationships (association and aggregation), and method interaction in a basic registration workflow.
 
 ## How to Run
 
-1. Ensure Python 3 is installed.
-2. Clone the repository.
-3. Run the script:
-   ```bash
-   python todo.py
+1. Ensure you have **Python 3** installed.
+2. Clone this repository or download the files.
+3. Open a terminal and run:
+
+```bash
+python main.py
+
+ 
