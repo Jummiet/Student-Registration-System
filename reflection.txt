@@ -1,0 +1,7 @@
+## Reflection on Version Control
+
+During the development process, I utilized Git for version control and project progress tracking. I made commits at significant milestones, such as when creating classes or adding core application logic.
+
+Git offers several advantages, including the ability to revert changes and maintain a record of various development stages. This enhanced my task organization and enabled the creation of meaningful commit messages.
+
+One challenge encountered was infrequent committing. To address this, I adopted a practice of working in smaller increments and committing after completing each task. In a team environment, Git facilitates collaboration by allowing parallel development, version control, and conflict resolution through branches and pull requests.
